@@ -15,5 +15,6 @@ I plan to style the page with CSS and add more interactive elements in future up
 
 ## 📷 Preview
 *(Add a screenshot if you'd like!)*
+<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a88dfbce-e4c5-4312-af22-3f2b27f731f3" />
 
 ---
