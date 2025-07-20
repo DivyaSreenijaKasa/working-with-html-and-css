@@ -1,0 +1,16 @@
+h1{
+    background-color: rgb(225, 109, 206);
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color:#B2AC88 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.center_list {
+    text-align: center;
+    list-style-position: inside;
+  }
+img{
+    border-radius: 20px;
+}
