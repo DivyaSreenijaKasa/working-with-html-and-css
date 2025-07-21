@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid #888;
+    padding: 12px;
+    vertical-align: middle;
+}
+
+th {
+    background-color: #cfe2f3; 
+}
+tr.mon { background-color: #e3f2fd; }    /* Light blue for Monday */
+tr.tue { background-color: #fce4ec; }    /* Soft pink for Tuesday */
+tr.wed { background-color: #f3e5f5; }    /* Lavender for Wednesday */
+tr.thu { background-color: #e8f5e9; }    /* Mint for Thursday */
+tr.fri { background-color: #fff9c4; }    /* Pale yellow for Friday */
+tr.sat { background-color: #fbe9e7; }    /* Peach for Saturday */
+
