@@ -1,20 +1,26 @@
-# working-with-html-and-css
-# Personal Webpage – First HTML Project 🌸
+# 🌸 Working with HTML and CSS
 
-This is my very first HTML & CSS activity, created after learning the basics from IBM’s Master Classes. Built and tested in VS Code, this webpage introduces who I am, what I’m learning, and how others can connect with me.
+Welcome to my HTML & CSS practice repo! This is a growing collection of micro-projects and experiments as I explore the world of web development.
 
-## 📌 Features
-- ✨ Simple design focused on clarity
-- 📖 “About Me” section with a brief intro
-- 💡 Highlights my technical skills and current learning goals
-- 🔗 Includes a link to my GitHub profile
-- 📬 Contact form for visitors to reach out
+## 📁 Project Files
 
-## 🚧 What’s Next
-I plan to style the page with CSS and add more interactive elements in future updates. Stay tuned!
+- `aboutme.html` – A simple personal intro page  
+- `divya.css` – Styling for the about me page  
+- `timetable.html` – Weekly class schedule layout  
+- `tt.css` – Custom styles for the timetable  
 
-## 📷 Preview
-*(Add a screenshot if you'd like!)*
-<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/a88dfbce-e4c5-4312-af22-3f2b27f731f3" />
+## 💻 What I'm Learning
 
----
+I'm currently focused on:
+- Building structured web pages with HTML  
+- Styling with CSS for better visual appeal  
+- Organizing micro projects for easy access and reuse  
+
+## 🚀 What's Next
+
+Future updates will include:
+- More interactive HTML/CSS features  
+- Responsive design tweaks  
+- Creative layouts and experiments  
+
+Feel free to check out the code and connect with me on [GitHub](https://github.com/YourUsername)!
